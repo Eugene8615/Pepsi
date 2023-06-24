@@ -199,7 +199,7 @@ justify-content: flex-end;
         position: relative;
         width: 40px;
         height: 40px;
-        background: url(/img/menu.png);
+        background: url(./img/menu.png);
         background-position: center;
         background-size: 30px;
         background-repeat: no-repeat;
@@ -208,7 +208,7 @@ justify-content: flex-end;
     }
 
     .toggleMenu.active{
-        background: url(/img/close.png);
+        background: url(./img/close.png);
         background-position: center;
         background-size: 25px;
         background-repeat: no-repeat;
